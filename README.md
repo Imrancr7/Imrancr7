@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.Js
 - 💬 Ask me about DSA
 - ⚡ Fun fact: How to reduce errors in code, by encountering whole lot of them
 
