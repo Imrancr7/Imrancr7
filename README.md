@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 
 -->
-- 🎓 Final-Year Computer Science Student at BMSCE, Bengaluru.
+- 🎓 Computer Science Student at BMSCE, Bengaluru.
 - 🌱 I’m currently learning React.Js
 - 💡 Passionate about coding, problem-solving, and leveraging technology for social impact
 - 🚀 Experienced with C++, Python, and Web Development
 - 🔍 Interested in Data Science, Machine Learning, Full Stack Web Devlopment and Optimization.
 - 💬 Ask me about DSA
-- ⚡ Fun fact: "How to reduce errors in code, by encountering whole lot of them"
+- ⚡ Fun fact: "How to reduce errors in code? By encountering whole lot of them"
 - 🤝 Open to collaborations on projects and ideas that can make a difference!
 
 
